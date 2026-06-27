@@ -1,1 +1,1 @@
-int Newfunction();
+float Newfunction();
