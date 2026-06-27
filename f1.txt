@@ -1,1 +1,1 @@
-void function();
+bool function();
