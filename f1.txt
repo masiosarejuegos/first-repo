@@ -1,1 +1,1 @@
-void function();
+int function();
